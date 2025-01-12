@@ -71,3 +71,7 @@ This project aims to create an intelligent system powered by a **Retrieval-Augme
 Let me know if there are any other refinements you'd like!
 
 ![Architecture](Architecture.png)
+
+### Prompt Library
+
+1. Quiz Generation Prompt: [https://aistudio.google.com/prompts/1qzDSVUXmKZYfNvDhViSicpDt9qswJc-n](https://aistudio.google.com/prompts/1qzDSVUXmKZYfNvDhViSicpDt9qswJc-n)
